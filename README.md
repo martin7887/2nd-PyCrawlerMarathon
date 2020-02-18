@@ -3,6 +3,9 @@
 相關資訊：
 * [Accupass]([https://www.accupass.com/event/2001020953524232221550](https://www.accupass.com/event/2001020953524232221550)
 )
+
+程式環境：
+* Jupyter Notebook
 ## Course Content
 ### Part1：爬蟲基礎知識
 * [Day 1：資料來源與檔案存取](https://github.com/chihsuanbjjh/2nd-PyCrawlerMarathon/blob/master/homework/Day001_HW.ipynb)
