@@ -1,8 +1,8 @@
 # 2nd-PyCrawlerMarathon 第二屆Python網路爬蟲馬拉松
 
 相關資訊：
-* [Accupass]([https://www.accupass.com/event/2001020953524232221550](https://www.accupass.com/event/2001020953524232221550)
-)
+* [Accupass](https://www.accupass.com/event/2001020953524232221550)
+* [官方網站](https://pycrawler-2.cupoy.com/)
 
 程式環境：
 * Jupyter Notebook
