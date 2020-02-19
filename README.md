@@ -9,6 +9,7 @@
 ## Course Content
 ### Part1：爬蟲基礎知識
 * [Day 1：資料來源與檔案存取](https://github.com/chihsuanbjjh/2nd-PyCrawlerMarathon/blob/master/homework/Day001_HW.ipynb)
-* Day2：實作：Python 下載CSV檔案與解析
+* [Day 2：實作：Python 下載CSV檔案與解析](https://github.com/chihsuanbjjh/2nd-PyCrawlerMarathon/blob/master/homework/Day002_HW.ipynb)
+* [Day 3：實作：Python 下載XML檔案與解析](https://github.com/chihsuanbjjh/2nd-PyCrawlerMarathon/blob/master/homework/Day003_HW.ipynb)
 
 
