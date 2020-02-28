@@ -11,5 +11,4 @@
 * [Day 1：資料來源與檔案存取](https://github.com/chihsuanbjjh/2nd-PyCrawlerMarathon/blob/master/homework/Day001_HW.ipynb)
 * [Day 2：實作：Python 下載CSV檔案與解析](https://github.com/chihsuanbjjh/2nd-PyCrawlerMarathon/blob/master/homework/Day002_HW.ipynb)
 * [Day 3：實作：Python 下載XML檔案與解析](https://github.com/chihsuanbjjh/2nd-PyCrawlerMarathon/blob/master/homework/Day003_HW.ipynb)
-
-
+* [Day 4：HTTP Server-Client 架構說明與 利用 Python 存取 API](https://github.com/chihsuanbjjh/2nd-PyCrawlerMarathon/blob/master/homework/Day004_HW.ipynb)
