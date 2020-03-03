@@ -15,3 +15,5 @@
 * [Day 5：實作 Day：API 資料串接 - 基本 API + JSON](https://github.com/chihsuanbjjh/2nd-PyCrawlerMarathon/blob/master/homework/Day005_HW.ipynb)
 * [Day 6：實作 Day：API 資料串接 - Headers](https://github.com/chihsuanbjjh/2nd-PyCrawlerMarathon/blob/master/homework/Day006_HW.ipynb)
 * [Day 7：HTTP 靜態網頁架構說明與淺談HTML / CSS / JavaScript](https://github.com/chihsuanbjjh/2nd-PyCrawlerMarathon/blob/master/homework/Day007_HW.ipynb)
+* [Day 8：靜態網頁的資料爬蟲策略](https://github.com/chihsuanbjjh/2nd-PyCrawlerMarathon/blob/master/homework/Day008_HW.ipynb)
+* [Day 9：圖片下載](https://github.com/chihsuanbjjh/2nd-PyCrawlerMarathon/blob/master/homework/Day009_HW.ipynb)
