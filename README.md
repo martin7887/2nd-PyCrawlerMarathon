@@ -17,3 +17,8 @@
 * [Day 7：HTTP 靜態網頁架構說明與淺談HTML / CSS / JavaScript](https://github.com/chihsuanbjjh/2nd-PyCrawlerMarathon/blob/master/homework/Day007_HW.ipynb)
 * [Day 8：靜態網頁的資料爬蟲策略](https://github.com/chihsuanbjjh/2nd-PyCrawlerMarathon/blob/master/homework/Day008_HW.ipynb)
 * [Day 9：圖片下載](https://github.com/chihsuanbjjh/2nd-PyCrawlerMarathon/blob/master/homework/Day009_HW.ipynb)
+* [Day 10：PyQuery/grab](https://github.com/chihsuanbjjh/2nd-PyCrawlerMarathon/blob/master/homework/Day010_HW.ipynb)
+* [Day 11：Regular expression](https://github.com/chihsuanbjjh/2nd-PyCrawlerMarathon/blob/master/homework/Day011_HW.ipynb)
+* [Day 12：實作 Day：ETTODAY 靜態爬蟲實作練習](https://github.com/chihsuanbjjh/2nd-PyCrawlerMarathon/blob/master/homework/Day012_HW.ipynb)
+
+
