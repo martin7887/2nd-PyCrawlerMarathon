@@ -20,5 +20,8 @@
 * [Day 10：PyQuery/grab](https://github.com/chihsuanbjjh/2nd-PyCrawlerMarathon/blob/master/homework/Day010_HW.ipynb)
 * [Day 11：Regular expression](https://github.com/chihsuanbjjh/2nd-PyCrawlerMarathon/blob/master/homework/Day011_HW.ipynb)
 * [Day 12：實作 Day：ETTODAY 靜態爬蟲實作練習](https://github.com/chihsuanbjjh/2nd-PyCrawlerMarathon/blob/master/homework/Day012_HW.ipynb)
+* [Day 13：實作 Day：PTT(批踢踢)網路爬蟲實作練習](https://github.com/chihsuanbjjh/2nd-PyCrawlerMarathon/blob/master/homework/Day013_HW.ipynb)
+* [Day 14：實作 Day：Yahoo! 電影網頁爬蟲實作練習](https://github.com/chihsuanbjjh/2nd-PyCrawlerMarathon/blob/master/homework/Day_014_Yahoo_Movie_HW.ipynb)
+* [Day 15：實作 Day：金融資訊網頁爬蟲實作練習](https://github.com/chihsuanbjjh/2nd-PyCrawlerMarathon/blob/master/homework/Day_015_Taiwan_Bank_HW.ipynb)
 
 
