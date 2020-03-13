@@ -24,4 +24,5 @@
 * [Day 14：實作 Day：Yahoo! 電影網頁爬蟲實作練習](https://github.com/chihsuanbjjh/2nd-PyCrawlerMarathon/blob/master/homework/Day_014_Yahoo_Movie_HW.ipynb)
 * [Day 15：實作 Day：金融資訊網頁爬蟲實作練習](https://github.com/chihsuanbjjh/2nd-PyCrawlerMarathon/blob/master/homework/Day_015_Taiwan_Bank_HW.ipynb)
 * [Day 16：實作 Day：Wiki的爬蟲實作練習](https://github.com/chihsuanbjjh/2nd-PyCrawlerMarathon/blob/master/homework/Day_016_Wikipedia_HW.ipynb)
-
+* [Day 17：HTTP 動態網頁架構說明與非同步取得資料](https://github.com/chihsuanbjjh/2nd-PyCrawlerMarathon/blob/master/homework/Day017_HW.ipynb)
+* [Day 18：瀏覽器開發者工具介紹](https://github.com/chihsuanbjjh/2nd-PyCrawlerMarathon/blob/master/homework/Day018_HW.ipynb)
