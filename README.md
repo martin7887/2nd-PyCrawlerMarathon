@@ -23,5 +23,5 @@
 * [Day 13：實作 Day：PTT(批踢踢)網路爬蟲實作練習](https://github.com/chihsuanbjjh/2nd-PyCrawlerMarathon/blob/master/homework/Day013_HW.ipynb)
 * [Day 14：實作 Day：Yahoo! 電影網頁爬蟲實作練習](https://github.com/chihsuanbjjh/2nd-PyCrawlerMarathon/blob/master/homework/Day_014_Yahoo_Movie_HW.ipynb)
 * [Day 15：實作 Day：金融資訊網頁爬蟲實作練習](https://github.com/chihsuanbjjh/2nd-PyCrawlerMarathon/blob/master/homework/Day_015_Taiwan_Bank_HW.ipynb)
-
+* [Day 16：實作 Day：Wiki的爬蟲實作練習](https://github.com/chihsuanbjjh/2nd-PyCrawlerMarathon/blob/master/homework/Day_016_Wikipedia_HW.ipynb)
 
